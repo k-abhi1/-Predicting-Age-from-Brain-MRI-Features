@@ -94,7 +94,17 @@ This ensemble model provided the **best generalization** performance.
 
 ## 📁 Project Structure
 
-📦 brain-age-prediction/ ├── data/ # Processed datasets ├── notebooks/ # Jupyter notebooks for each stage ├── models/ # Saved model weights and pipelines ├── src/ # Core Python scripts │ ├── preprocessing.py │ ├── feature_selection.py │ ├── modeling.py │ └── utils.py ├── README.md # Project description └── requirements.txt # Dependencies
+brain-age-prediction/
+├── data/                   # Processed datasets
+├── notebooks/              # Jupyter notebooks for each stage
+├── models/                 # Saved model weights and pipelines
+├── src/                    # Core Python scripts
+│   ├── preprocessing.py        # Data cleaning and preprocessing
+│   ├── feature_selection.py    # Feature selection techniques
+│   ├── modeling.py             # Model training and evaluation
+│   └── utils.py                # Utility functions
+├── README.md              # Project description
+└── requirements.txt       # Dependencies
 
 
 ---
