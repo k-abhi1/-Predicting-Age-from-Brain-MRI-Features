@@ -90,3 +90,35 @@ This ensemble model provided the **best generalization** performance.
 
 ## 📁 Project Structure
 
+📦 brain-age-prediction/ ├── data/ # Processed datasets ├── notebooks/ # Jupyter notebooks for each stage ├── models/ # Saved model weights and pipelines ├── src/ # Core Python scripts │ ├── preprocessing.py │ ├── feature_selection.py │ ├── modeling.py │ └── utils.py ├── README.md # Project description └── requirements.txt # Dependencies
+
+
+---
+
+## 📌 Future Work
+
+- Experiment with deep learning models (e.g., CNNs for raw MRI scans).
+- Validate model on external datasets.
+- Investigate biological interpretability of selected features.
+
+---
+
+## 🙌 Acknowledgements
+
+This project was inspired by the intersection of neuroscience and machine learning. Huge thanks to the open datasets and scikit-learn contributors that made this exploration possible.
+
+---
+
+## 🧪 Installation
+
+```bash
+git clone https://github.com/yourusername/brain-age-prediction.git
+cd brain-age-prediction
+pip install -r requirements.txt 
+
+
+---
+
+Let me know if you want to include plots or performance metrics like MAE/RMSE, or if you want a version with Jupyter notebooks hosted on Google Colab!
+
+
