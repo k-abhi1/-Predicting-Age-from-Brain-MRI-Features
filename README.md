@@ -40,6 +40,10 @@ We applied a comprehensive pipeline that includes:
 4. **Outlier Detection**: Implemented `IsolationForest` on PCA-transformed data.
 5. **Results**: Identified and removed **61 outliers** from the original **1212 samples**.
 
+<p align="center">
+  <img src="Predicting Age from Brain MRI Features.png" alt="Outlier Detection with Isolation Forest" width="600"/>
+</p>
+
 ---
 
 ### 🧩 Missing Value Imputation (Post-Outlier Removal)
