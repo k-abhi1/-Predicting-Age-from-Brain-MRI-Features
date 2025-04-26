@@ -126,8 +126,8 @@ This project was inspired by the intersection of neuroscience and machine learni
 ## 🧪 Installation
 
 ```bash
-git clone https://github.com/yourusername/brain-age-prediction.git
-cd brain-age-prediction
+https://github.com/k-abhi1/-Predicting-Age-from-Brain-MRI-Features
+cd -Predicting-Age-from-Brain-MRI-Features
 pip install -r requirements.txt 
 
 
