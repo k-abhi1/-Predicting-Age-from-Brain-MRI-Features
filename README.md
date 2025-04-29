@@ -128,7 +128,7 @@ This project was inspired by the intersection of neuroscience and machine learni
 ```bash
 https://github.com/k-abhi1/-Predicting-Age-from-Brain-MRI-Features
 cd -Predicting-Age-from-Brain-MRI-Features
-pip install -r requirements.txt 
+git clone https://github.com/k-abhi1/Predicting-Age-from-Brain-MRI-Features.git
 
 
 ---
